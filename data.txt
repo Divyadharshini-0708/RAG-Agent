@@ -1,0 +1,5 @@
+Python is a high-level programming language.
+It is widely used in data science, web development, and automation.
+
+Machine Learning allows computers to learn from data.
+Deep Learning is a subset of machine learning.
